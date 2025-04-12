@@ -36,4 +36,4 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 [![](https://visitcount.itsvg.in/api?id=SAFAL-MONDAL&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![snake gif](https://github.com/SAFAL-MONDAL/SAFAL-MONDAL/blob/output/github-snake-dark.svg)
