@@ -58,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ SAFAL-MONDAL }}
+          github_user_name: ${{SAFAL-MONDAL}}
 
 
 
@@ -74,7 +74,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{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}}
 
 
 
@@ -86,7 +86,7 @@ jobs:
 
         with:
 
-          github_token: ${{ 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 }}
+          github_token: ${{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}}
 
           publish_dir: ./dist
 
