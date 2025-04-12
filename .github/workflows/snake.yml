@@ -74,8 +74,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: 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
-
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
 
       # Step 3: Deploy the generated files to the 'output' branch
@@ -86,7 +85,7 @@ jobs:
 
         with:
 
-          github_token: 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
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
 
           publish_dir: ./dist
 
