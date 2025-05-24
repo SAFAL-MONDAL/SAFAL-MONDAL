@@ -5,7 +5,7 @@
 🚀 **Computer Science Engineering Student** | 🌱 **Learning & Growing** | 💻 **Future Full-Stack Developer**  
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building cool stuff. Currently diving deep into the world of **full-stack development**, exploring both frontend and backend technologies.  
-//
+
 </div>
 <div align="center">
 
