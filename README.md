@@ -2,7 +2,9 @@
 
 # 💫 About Me:
 # Hey there! 👋 I'm Safal  
-🚀 **Computer Science Engineering Student** | 🌱 **Learning & Growing** | 💻 **Future Full-Stack Developer**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=3498db&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Android+%26+Web+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
+</p>  
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building cool stuff. Currently diving deep into the world of **full-stack development**, exploring both frontend and backend technologies.  
 
