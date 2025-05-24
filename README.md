@@ -3,7 +3,7 @@
 # 💫 About Me:
 # Hey there! 👋 I'm Safal  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&weight=700&color=FFFFFF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Android+%26+Web+Enthusiast;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&weight=700&color=FFFFFF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;DevOps+Engineer;Open+Source+Contributor" alt="Typing SVG">
 </p> 
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building cool stuff. Currently diving deep into the world of **full-stack development**, exploring both frontend and backend technologies.  
