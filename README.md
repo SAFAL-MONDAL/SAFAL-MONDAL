@@ -5,9 +5,8 @@
 🚀 **Computer Science Engineering Student** | 🌱 **Learning & Growing** | 💻 **Future Full-Stack Developer**  
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building cool stuff. Currently diving deep into the world of **full-stack development**, exploring both frontend and backend technologies.  
-
+//
 </div>
-
 <div align="center">
 
 ## 🌐 Socials:
@@ -47,7 +46,6 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
-
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div align="center">
