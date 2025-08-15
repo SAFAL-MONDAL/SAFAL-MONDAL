@@ -5,11 +5,11 @@
 <p align="center">
   <picture>
     <!-- White text for dark theme -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&weight=700&color=FFFFFF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Cloud+DevOps+Enthusiast;Open+Source+Contributor">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&weight=700&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hey+there!+👋+I'm+Safal;Full-Stack+Developer;Cloud+DevOps+Enthusiast;Open+Source+Contributor">
     <!-- Black text for light theme -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&weight=700&color=000000&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Cloud+DevOps+Enthusiast;Open+Source+Contributor">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&weight=700&color=000000&center=true&vCenter=true&width=450&lines=Hey+there!+👋+I'm+Safal;Full-Stack+Developer;Cloud+DevOps+Enthusiast;Open+Source+Contributor">
     <!-- Fallback -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&weight=700&color=000000&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Cloud+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&weight=700&color=000000&center=true&vCenter=true&width=450&lines=Hey+there!+👋+I'm+Safal;Full-Stack+Developer;Cloud+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
   </picture>
 </p>
 
