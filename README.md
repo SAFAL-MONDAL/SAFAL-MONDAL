@@ -1,7 +1,6 @@
 <div align="center">
 
 # 💫 About Me:
-# Hey there! 👋 I'm Safal  
 <p align="center">
   <picture>
     <!-- White text for dark theme -->
