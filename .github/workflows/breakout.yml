@@ -1,9 +1,9 @@
-name: Generate Breakout SVG
+name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # Runs every 24 hours
-  workflow_dispatch:         # Allows manual triggering
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate-svg:
@@ -16,10 +16,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate SVG
+      - name: generate SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
-          github_username: "SAFAL-MONDAL"  # Your GitHub username hardcoded
+          github_username: ${{ github.repository_owner }}
 
       - name: Move generated SVGs
         run: |
@@ -29,8 +29,8 @@ jobs:
 
       - name: Configure git
         run: |
-          git config user.name "SAFAL-MONDAL"
-          git config user.email "safalmondal90@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push SVGs
         run: |
