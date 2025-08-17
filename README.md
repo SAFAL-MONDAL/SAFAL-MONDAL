@@ -115,6 +115,12 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 [![](https://visitcount.itsvg.in/api?id=SAFAL-MONDAL&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://example.com/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://example.com/breakout-light.svg">
+  <img alt="GitHub Breakout Game" src="https://example.com/breakout-light.svg">
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
