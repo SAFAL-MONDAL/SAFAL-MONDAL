@@ -62,9 +62,15 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
   
 ## My GitHub Contributions as Breakout Game
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/images/breakout-light.svg">
-  <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/images/breakout-light.svg" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
 
