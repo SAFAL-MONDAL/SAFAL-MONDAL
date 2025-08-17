@@ -60,8 +60,20 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 <div align="center">
 
   
+## 🎮 My GitHub Contributions as a Breakout Game
+
 <picture>
-  <img src="assets/light.svg" width="600">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="./assets/breakout-dark.svg">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="./assets/breakout-light.svg">
+  <img 
+    alt="My GitHub Breakout Game" 
+    src="./assets/breakout-light.svg" 
+    width="100%"
+    style="border-radius: 6px; margin-top: 10px;">
 </picture>
 
 ## ⚡ Fun Facts About Me:
