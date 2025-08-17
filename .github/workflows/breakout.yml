@@ -1,23 +1,39 @@
-name: Generate Breakout Game
+name: Generate Breakout SVG
+
 on:
   schedule:
-    - cron: "0 12 * * *"  # Runs daily at 12 PM UTC
-  workflow_dispatch:
+    - cron: "0 */24 * * *"  # Runs every 24 hours
+  workflow_dispatch:         # Allows manual triggering
+
 jobs:
-  generate:
+  generate-svg:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: cyprieng/github-breakout@v1.0.0
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate SVG
+        uses: cyprieng/github-breakout@v1.0.0
         with:
-          github_username: SAFAL-MONDAL
-      - name: Commit SVGs
+          github_username: "SAFAL-MONDAL"  # Your GitHub username hardcoded
+
+      - name: Move generated SVGs
         run: |
-          mkdir -p assets
-          mv output/light.svg assets/breakout-light.svg
-          mv output/dark.svg assets/breakout-dark.svg
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add assets/
-          git commit -m "Update Breakout game" || echo "No changes to commit"
+          mkdir -p images
+          mv output/light.svg images/breakout-light.svg
+          mv output/dark.svg images/breakout-dark.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push SVGs
+        run: |
+          git add images/breakout-light.svg images/breakout-dark.svg
+          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
           git push
