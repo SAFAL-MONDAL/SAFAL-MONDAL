@@ -59,6 +59,15 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 <div align="center">
 
+  
+## My GitHub Contributions as Breakout Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/images/breakout-light.svg">
+  <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/images/breakout-light.svg" width="100%">
+</picture>
+
+
 ## ⚡ Fun Facts About Me:
 - I believe in **"Code, Collaborate, and Create"** 🤝💻  
 - When I'm not debugging, you'll find me binge-watching tech tutorials or memes 😆  
@@ -116,11 +125,6 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 [![](https://visitcount.itsvg.in/api?id=SAFAL-MONDAL&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/assets/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/assets/breakout-light.svg">
-  <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/SAFAL-MONDAL/SAFAL-MONDAL/main/assets/breakout-light.svg" width="100%">
-</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
